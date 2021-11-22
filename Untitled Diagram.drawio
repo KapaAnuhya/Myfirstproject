@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T14:23:48.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" version="15.8.3" etag="niDAHcIxNvofLzg3Ej4C" type="github"><diagram id="bkVaZI9KZUCUMzUWtCy7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-22T14:39:05.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="sEFZugwEHgu93UOYy1TU" version="15.8.3" type="github">
+  <diagram id="bkVaZI9KZUCUMzUWtCy7" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JQbUR6YbJ7XoIXfGqkOY-1" value="Calendar Management" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JQbUR6YbJ7XoIXfGqkOY-2" value="-I&#39;m not&amp;nbsp; free until next week&lt;br&gt;-I&#39;m not back until specific day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQbUR6YbJ7XoIXfGqkOY-6" value="ONCE NEW DATE SET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQbUR6YbJ7XoIXfGqkOY-8" value="[day before and day of being back/free]&lt;br&gt;set[name]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQbUR6YbJ7XoIXfGqkOY-11" value="7 PM NIGHT BEFORE IN CALENDER&lt;br&gt;[name] tmrw at [time]{optionally and activity}" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JQbUR6YbJ7XoIXfGqkOY-14" value="10-11 AM DAY OF IN CALENDER&lt;br&gt;[name][time]{optionally add activity}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
