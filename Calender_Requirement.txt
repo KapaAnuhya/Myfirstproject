@@ -1,0 +1,11 @@
+REQUIREMENTS OF CALENDER PROJECT:-
+C program which accepts any month-year and displays calender of that month .we 'll add more features like,if user press:
+->Left-arrow key-go to the previous month.
+->Right-arrow key-go to the next month.
+->Up-arrow key-go to the next year.
+->Down-arrow key-go to the previous year.
+->I-insert new month year.
+->p-print the month in a text file.
+->ESC-exit the program.
+
+ 
