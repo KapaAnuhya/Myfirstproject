@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T05:17:11.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" version="15.8.3" etag="8OFW4WXZy3uTQGtV3mDC" type="github"><diagram id="kBOq1PiES2yW_t2UD4Vn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-23T06:06:51.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="c3fpPxp0VwsSZbTMMiaP" version="15.8.3" type="github">
+  <diagram id="kBOq1PiES2yW_t2UD4Vn" name="Page-1">
+    <mxGraphModel dx="620" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-1" value="Calendar Mangement" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="20" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-3" value="-I&#39;m not free until next week&lt;br&gt;-I&#39;m not back until specific day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1200" as="sourcePoint" />
+            <mxPoint x="210" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="210" as="sourcePoint" />
+            <mxPoint x="70" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-7" value="[day before and day of being back/free]&lt;br&gt;set[name]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-8" value="ONCE NEW DATE SET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-17" value="7PM NIGHT BEFORE IN CALENDER&lt;br&gt;[name]tmrw at [time]{optionally and activity}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-19" value="10-11 AM DAY OF IN CALENDER&lt;br&gt;[name][time]{optionally add&amp;nbsp; activity}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-20" value="-need to check my schedule on day[x]&lt;br&gt;-I will know closer to the weekend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="115" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-24" value="Based on the day she says ,put a reminder for:&lt;br&gt;check in with[name]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-26" value="you must use calendar tracking of dates and events, you will not be able to track it all in your head" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-27" value="FLOATER SPOT&lt;br&gt;(girl agrees to day but no assigned time)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-28" value="Reminders at 10AM based on all day availability, afternoon, or evening:&lt;br&gt;[name]today&lt;br&gt;[name]afternoon&lt;br&gt;[name]evening&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="280" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-29" value="can give her a set time based on other dates, other things in your schedule, fakes ,dates ending early or late ,etc.." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-34" value="ROTATION GIRL PLANS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-40" value="10-11 AM Day of IN CALENDER&amp;nbsp;&lt;br&gt;[name][time]&lt;br&gt;{optionally add activity}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="300" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="278" as="sourcePoint" />
+            <mxPoint x="650" y="278" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.589;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yYdPTjP-X3hpbj1eBxqQ-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="813" y="297" as="sourcePoint" />
+            <mxPoint x="660" y="288" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="805" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yYdPTjP-X3hpbj1eBxqQ-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="230" as="sourcePoint" />
+            <mxPoint x="510" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="240.00000000000003" as="sourcePoint" />
+            <mxPoint x="330" y="240.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.124;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yYdPTjP-X3hpbj1eBxqQ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="240" as="sourcePoint" />
+            <mxPoint x="320" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.316;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yYdPTjP-X3hpbj1eBxqQ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="245" as="sourcePoint" />
+            <mxPoint x="250" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYdPTjP-X3hpbj1eBxqQ-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.414;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yYdPTjP-X3hpbj1eBxqQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="237" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
